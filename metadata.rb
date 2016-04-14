@@ -7,7 +7,7 @@ long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '1.0.6'
 
 depends 'chef_handler', '~> 1.1.6'
-depends 'filesystem', '~> 0.9.0'
+depends 'filesystem', '~> 0.10.6'
 depends 'lvm', '~> 1.6.1'
 depends 'marker', '~> 1.0.1'
 depends 'rightscale_backup', '~> 1.1.5'
